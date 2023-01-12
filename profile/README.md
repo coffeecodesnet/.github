@@ -6,7 +6,8 @@ tartışabileceğin bir platformdur.</b>
 <h4>Nasıl yani?</h4>
 <pre>
 <b>Şu şekilde, <ins>Kurslardan</ins> <ins>videoları</ins>, <ins>blogları</ins> ve <ins>dokumanları</ins> inceleyerek kurslarda bahsedilenleri öğrenebilir, kursu oluşturan 
-usta öğreticinin <ins>sınıfına</ins> katılıp ders konularını oradan tartışabilirsiniz ve orada bulunan öğrenciler ile <ins>sesli</ins> ve <ins>yazılı</ins>
+usta öğreticinin <ins>sınıfına</ins> katılıp ders konularını oradan tartışabilirsiniz, <ins>canlı derslere</ins> 
+katılabilirsiniz ve orada bulunan öğrenciler ile <ins>sesli</ins> ve <ins>yazılı</ins>
 olarak tartışabilirsiniz.
 tabii ki sınıf dışında da bir forum sistemimiz mevcut, <ins>forumlarda</ins> istediğin konu hakkında soru sorabilirsin.
 ekstra olarak da bir kursa kaydoldunuz, arkadaşınızla beraber W2G sistemi ile beraber izleyebilirsiniz.</b>
