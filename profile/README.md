@@ -1,6 +1,7 @@
 <h3>Coffeecodes Nedir?</h3>
 <pre>
-<b>Coffeecodes Kolaylıkla Yazılım teknolojileri hakkında bilgi edinebileceğin, ders alabileceğin ve tartışabileceğin bir platformdur.</b>
+<b>Coffeecodes Kolaylıkla Yazılım teknolojileri hakkında bilgi edinebileceğin, ders alabileceğin ve 
+tartışabileceğin bir platformdur.</b>
 </pre>
 <h4>Nasıl yani?</h4>
 <pre>
