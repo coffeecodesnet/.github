@@ -12,7 +12,4 @@ olarak tartışabilirsiniz.
 tabii ki sınıf dışında da bir forum sistemimiz mevcut, <ins>forumlarda</ins> istediğin konu hakkında soru sorabilirsin.
 ekstra olarak da bir kursa kaydoldunuz, arkadaşınızla beraber W2G sistemi ile beraber izleyebilirsiniz.</b>
 </pre>
-<h4>Peki içerikleri kimler hazırlıyor?</h4>
-<pre>
-<b>Yöneticiler, Moderatörler, Usta öğreticiler ve uzmanlar tarafından içerikler hazırlanıyor.</b>
-</pre>
+
